@@ -1,0 +1,7 @@
+Halo Pak Sandhika salam kenal, nama saya Fadli dari Cirebon. Saya kuliah di jurusan Teknik Informatika semester 4
+Saya baru melihat video bapak tahun ini karena mulai penasaran apa bedanya git dengan github dan juga karena di kampus tidak di ajarkan,
+awalanya juga saya bingung bedapanya apa tapi sekarang saya mulai mengerti terimakasih Pak
+
+Resolusi saya:
+- Memahami cara kerja git & github
+- mengetahui fitur-fitur yang ada di git & github
